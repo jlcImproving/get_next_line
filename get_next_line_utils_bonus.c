@@ -1,16 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: joaocharneca <joaocharneca@student.42.fr>  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/04/28 12:40:03 by joaocharneca      #+#    #+#             */
-/*   Updated: 2022/04/29 13:25:36 by joaocharneca     ###   ########.fr       */
+/*   Created: 2022/04/30 12:40:30 by joaocharneca      #+#    #+#             */
+/*   Updated: 2022/04/30 12:41:17 by joaocharneca     ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(char *str)
 {
