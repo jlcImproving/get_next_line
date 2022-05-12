@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: joaocharneca <joaocharneca@student.42.fr>  +#+  +:+       +#+        */
+/*   By: jde-alme <jde-alme@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/30 12:29:22 by joaocharneca      #+#    #+#             */
-/*   Updated: 2022/04/30 12:29:51 by joaocharneca     ###   ########.fr       */
+/*   Updated: 2022/05/12 13:16:46 by jde-alme         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
